@@ -1,0 +1,36 @@
+Lab 5 Writeup:
+
+Published prototype link:
+https://www.figma.com/community/file/1599055779449530380
+
+Project link (breaks for everyone who isn't me??? i thought i set the perms!):
+https://www.figma.com/make/ZKriVZ0o7O3ZzYHHAJyD41/Lab-5-Prototype?t=83xNegXXYDGyfrqF-1
+
+
+# The purpose of this app
+- It aims to reduce time spent passively scrolling and browsing applications by removing algorithmic content recommendations.
+
+# Target users
+- Myself.
+- Students who struggle to stay focused while studying due to frequent social media and video platform distractions.
+- Those who are addicted to social media or otherwise easily pulled into attention-grabbing content.
+- Heavy social media users who want better control over their screen time without completely quitting platforms.
+- Productivity-focused users who prefer tools that encourage better habits instead of strictly blocking everything.
+
+# Why I chose my layout
+- It's intuitive; if someone wants to set it so that apps close after 7:00 PM, they simply tap 7:00 PM on the timeline and adjust accordingly. It easily visualizes the whole day's timeslots by proportion at a glance.
+- Once the session times have been set up, it's easy to just tap one and start editing each app individually.
+
+# Challenges faced
+- Time constraints.
+- Limited AI credits.
+- The original prototype was browser-based, PC-only, and had an entirely different UI, while this app is designed for mobile, where most people spend more time.
+- Much of the app's hypothetical functionality is seen inside other apps. The app itself is very minimalistic.
+
+# Future improvements
+- More apps could be supported.
+- Each app could have a preview button that shows which parts of the app would be disabled, and explains each setting.
+- It could have "preset" configurations where new timeslots can be quickly configured.
+- The app may allow different configurations based on different weekdays or calendar days.
+- The colors are not final. Ideally, each timeslot should have automatic color selection based on time of day or based on preset. It should also include both light and dark themes for users.
+- The app could take greater advantage of builtin screen-time features which I don't know of yet.
