@@ -1,0 +1,13 @@
+Lab 3 Reflection:
+
+Q: Which design was easiest?
+A: The main banner. It's small, simple, and has few needed elements: Name, tagline, and logo. I decided to spend more time on layout and decoration to develop my style.
+
+Q: What branding elements were applied?
+A: First and foremost, tone and target audience. If it was about my abilities, it would use the dark theme. If it was intended for the public, it would use the light theme. Both themes use a translucent logo in the background to make it more interesting than one plain color, and to remind people that it's still me, despite the different themes' vibes. Within a theme, fonts and colors are still consistent, and coexist with neutral colors and other assets.
+
+Q: Explain how you ensured readability and hierarchy.
+A: The title is always the most prominent element. It's the largest heading, near the top or left of the image, and is readable even when zoomed out. Subtitles are in close proximity to give further context, and the main content of the posts take the center stage. Less important footnotes are added near the bottom for additional flavor in case someone wants more out of it. Finally, the background logo is at 10% opacity so it doesn't obscure anything. Still, all the text is enclosed in 60% opacity boxes to reduce interference while still letting the logo peek through.
+
+Q: Explain what you learned about creating social media graphics.
+A: It is a pain to insert new content. You think you have the perfect layout, then you realize you missed some key information, so now you have to resize the assets and shuffle things around to keep consistent spacing and all else. It's also unfortunate when assets don't match with the palette. I had to modify my Social Media Post asset to have a blue background because plain white didn't look as good in dark theme. The limited space also demanded that I make one simple compiled graphic for it, meaning I had to simplify my process and omit information from raw Canva screenshots to show a more digestible story.

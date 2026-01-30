@@ -1,0 +1,6 @@
+Lab 4 Reflection:
+
+- There was no reflection question. Still, shoutout to OpenAI ChatGPT for helping put together the actual content of the paper, so all I had to do was look for the pieces of information.
+- Putting the infographic together was difficult. I couldn't find all the data I wanted (I couldn't feed my biases) and it was hard to fit the pie chart into the design without compromising on text size. Layouting was difficult, but fortunately it worked.
+- I decided to put a simplified triangle logo in the bottom right because it's a much larger design and the giant triangle in the background didn't occupy the whole canvas.
+- Also this is a really cool project that I tried developing in real life. Too bad it sounds infeasible for mobile since every single app is different and works differently between updates... and you can't easily spoof a fake frontend for any of the apps either...

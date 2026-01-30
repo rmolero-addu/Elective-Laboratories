@@ -1,0 +1,13 @@
+Lab 2 Reflection:
+
+Q: What inspired your branding?
+A: I love fractals. I've had this idea for a fractal factory game for at least 2 years now, but I never got around to implementing it. I used to have different branding, but unfortunately its logo now belongs to a community, so I can't use it personally.
+
+Q: How did you choose your palette?
+A: I went with what looked cool. Initially orange-yellow to match the default colors in my fractal game, which looked great. But my favorite colors are actually blue-magenta, which I set as the colors for my RGB gaming PC setup. I wanted a mix of friendly and cool/techy colors, so some pastel purple and friendly brown for light mode. And for my logo, a neutral color, some deep blue-magenta for the body, and some directly contrasting black and green to represent the terminal.
+
+Q: What was challenging in creating the logo?
+A: The existence of my previous logos. I wanted to preserve my "Redstoneboi" identity, as well as my "Esoteric Programmer" identity, which were separate logos. It was difficult to make something new and accept it as my own - it felt like abandoning who I used to be. But I think I needed a rebrand anyway. "Redstone" isn't original, it's a Minecraft item, and as for the Esolang logo, I gave it to a whole community.
+
+Q: How do you plan to use this branding in future projects?
+A: I will use it for a new online identity: "Shatterbox". This will be used for both game development and cybersecurity. I will be using this for my profile pictures and probably any real personal announcement posts since - in all honesty - I think I found a style that looks really, really cool.

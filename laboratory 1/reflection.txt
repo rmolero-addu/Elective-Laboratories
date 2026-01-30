@@ -1,0 +1,10 @@
+Lab 1 Reflection:
+
+Q: What design principle did you find most useful?
+A: Visual Hierarchy/Emphasis. Using the size of certain objects, I kept the principle in mind and formulated a clear intention to direct attention to specific parts of the presentation in a certain order.
+
+Q: What part of Canva was easiest/hardest to use?
+A: The easiest part is the manipulation and positioning of elements. It's very easy to just drag something where you want it to be, rotate it, flip it, and give it decorations like borders and rounded corners. I haven't seen a single editor do it better. The hardest part was probably finding the right assets. Canva has a wide asset library, but they need to make money, so most of the time my desired graphics or icons were locked behind premium. I had to either find icons online, which were possibly copyrighted, or improvise and make icons myself, though it takes so much more effort making something from scratch. You can still see the icon I made. It violates visual consistency, but I don't exactly have infinite time right now...
+
+Q: What did you learn about visual communication?
+- One layout isn't enough. You can't just use the first thing that comes to your mind, there might be better layouts for a slide, and it takes experimentation to figure out what works best. Yes, this means working on something and throwing it out later. That is what it truly means to be an artist, I suppose.
